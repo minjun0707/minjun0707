@@ -27,6 +27,7 @@ https://imbusy.tistory.com
 ### Experience
 - SuresoftTech Intership (Infra Verification Team) 2023.06~2023.08
 - Gachon SW Academy 2023.09~2023.02
+- GDSC Gachon (Google Developer Student Club) 2023.09 ~
 - AWS JAM 2023.11.2
 - SK C&C UI/UX job training 2023.11.2~11.9
 - Multi Cloud Orchestartion (Terraform) 2023.11.13~16
