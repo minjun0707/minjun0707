@@ -2,24 +2,18 @@
 
 ### Blog
 https://imbusy.tistory.com
-### Languages
-- Java
-### Frameworks
-- Spring Boot
+### Languages & Frameworks
+- Java, Spring Boot
 ### Infrastructures
 - Cloud
   - Kakao Cloud
   - AWS EC2, AWS S3, AWS CloudFront, AWS Lambda
 - CI/CD
   - Github Action, Jenkins
-- OS
-  - Ubuntu
 - ETC
-  - Docker, Infisical
-### Testing
-- JUnit5, SonarQube
-### Observability
-- Elastic, Kibana
+  - Docker, Infisical, Ubuntu
+### Testing & Observability
+- JUnit5, SonarQube, Elastic, Kibana
 ### Collaboration Tool
 - Jira, Slack, Notion
 ### Certificate
@@ -34,5 +28,3 @@ https://imbusy.tistory.com
 - Monitoring and Testing Implementation in a DevOps Environment (Elastic) 2023.12.11~12.14
 
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmk7117)](https://solved.ac/jmk7117/)
