@@ -11,7 +11,7 @@ https://imbusy.tistory.com
   - AWS EC2, AWS S3, AWS CloudFront, AWS Lambda
 - CI/CD
   - Github Action, Jenkins
-- ETC
+- etc
   - Docker, Infisical, Ubuntu
 ### Testing & Observability
 - JUnit5, SonarQube, Elastic, Kibana
