@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-### Blog
+<!-- ### Blog
 https://imbusy.tistory.com
+-->
 ### Languages & Frameworks
 - Java, Spring Boot
 ### Infrastructures
@@ -16,6 +17,8 @@ https://imbusy.tistory.com
 - JUnit5, SonarQube, Elastic, Kibana
 ### Collaboration Tool
 - Jira, Slack, Notion
+
+<!-- 
 ### Certificate
 - ISTQB, CSTS, SQLD
 ### Experience
@@ -26,5 +29,4 @@ https://imbusy.tistory.com
 - SK C&C UI/UX job training 2023.11.2~11.9
 - Multi Cloud Orchestartion (Terraform) 2023.11.13~16
 - Monitoring and Testing Implementation in a DevOps Environment (Elastic) 2023.12.11~12.14
-
-
+-->
