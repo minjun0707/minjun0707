@@ -1,4 +1,6 @@
-### 안녕하세요 김민준입니다 👋 [BLOG](https://imbusy.tistory.com/)    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjun0707&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### 안녕하세요 김민준입니다 👋    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjun0707&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<!-- [BLOG](https://imbusy.tistory.com/)  -->
 
 - Gachon kakao enterprise SW Academy <sub> 2023.09 ~ 2023.02</sub>
 - Gachon Google Developer Student Club <sub> 2023.09 ~</sub>
