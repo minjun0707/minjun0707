@@ -1,7 +1,7 @@
 ### 안녕하세요 김민준입니다 👋
 <!-- [BLOG](https://imbusy.tistory.com/)  -->
 
-- Gachon Kakao Enterprise SW Academy <sub> 2023.09 ~ 2023.02</sub>
+- Gachon Kakao Enterprise SW Academy <sub> 2023.09 ~ 2024.02</sub>
 - Gachon Google Developer Student Club <sub> 2023.09 ~</sub>
 - SuresoftTech Intership (Infra Verification Team) <sub> 2023.06 ~ 2023.08</sub>
 
