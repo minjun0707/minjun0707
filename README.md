@@ -23,14 +23,14 @@
 <details open>
 <summary>&nbsp;<b> Team Project </b></summary>
 <br>
-<li><a href="https://github.com/KEA-DoKebi">DKT 자사 쇼핑몰</a> <sub> 2023.01 ~ 2023.02 </sub></li>
-<li><a href="https://github.com/KEA-Allways">Allways 블로그 </a> <sub> 2023.09 ~ 2023.12 </sub></li>
+<li><a href="https://github.com/KEA-DoKebi">DKT Shopping Mall</a> <sub> 2023.01 ~ 2023.02 </sub></li>
+<li><a href="https://github.com/KEA-Allways">Allways Blog </a> <sub> 2023.09 ~ 2023.12 </sub></li>
 <li><a href="https://github.com/minjun0707/assignment-notification">We know what to do</a> <sub> 2022.03 ~ 2022.06 </sub></li>
 <br>
 </details>
 
 <details open>
-<summary>&nbsp;<b> Personal project </b></summary>
+<summary>&nbsp;<b> Personal Project </b></summary>
 <br>
 <li><a href="https://github.com/minjun0707/Linkhub-BE">Linkhub</a> <sub> 2023.03 ~ 2023.05 </sub></li>
 <br>
