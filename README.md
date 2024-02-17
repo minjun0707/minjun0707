@@ -1,7 +1,7 @@
 ### 안녕하세요 김민준입니다 👋
 <!-- [BLOG](https://imbusy.tistory.com/)  -->
 
-- Gachon Kakao Enterprise SW Academy <sub> 2023.09 ~ 2024.02</sub>
+<!-- - Gachon Kakao Enterprise SW Academy <sub> 2023.09 ~ 2024.02</sub> -->
 - Gachon Google Developer Student Club <sub> 2023.09 ~</sub>
 - SuresoftTech Intership (Infra Verification Team) <sub> 2023.06 ~ 2023.08</sub>
 
@@ -41,7 +41,8 @@
 <details open>
 <summary>&nbsp;<b> Certificate </b></summary>
 <br>
-<li> GCP Associate Cloud Engineer  <sub> 2024.02 </sub> </li>
+<!--  <li> Terraform Associate <sub> 2024.02 </sub> </li> -->
+<!--  <li> GCP Associate Cloud Engineer  <sub> 2024.02 </sub> </li> -->
 <li> AWS Certified Solutions Architect - Associate<sub> 2024.01 </sub> </li>
 <li> AWS Certified Cloud Practitioner <sub> 2024.01 </sub> </li>
 <li> SQLD <sub> 2023.07 </sub> </li>
