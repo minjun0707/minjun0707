@@ -23,7 +23,7 @@
 <details open>
 <summary>&nbsp;<b> Team Project </b></summary>
 <br>
-<li><a href="https://github.com/KEA-DoKebi">DKT Shopping Mall</a> <sub> 2023.01 ~ 2023.02 </sub></li>
+<li><a href="https://github.com/KEA-DoKebi">DKT Shopping Mall</a> <sub> 2023.01 ~ 2024.02 </sub></li>
 <li><a href="https://github.com/KEA-Allways">Allways Blog </a> <sub> 2023.09 ~ 2023.12 </sub></li>
 <li><a href="https://github.com/minjun0707/assignment-notification">We know what to do</a> <sub> 2022.03 ~ 2022.06 </sub></li>
 <br>
@@ -42,7 +42,7 @@
 <summary>&nbsp;<b> Certificate </b></summary>
 <br>
 <!--  <li> Terraform Associate <sub> 2024.02 </sub> </li> -->
-<!--  <li> GCP Associate Cloud Engineer  <sub> 2024.02 </sub> </li> -->
+<li> GCP Associate Cloud Engineer  <sub> 2024.02 </sub>
 <li> AWS Certified Solutions Architect - Associate<sub> 2024.01 </sub> </li>
 <li> AWS Certified Cloud Practitioner <sub> 2024.01 </sub> </li>
 <li> SQLD <sub> 2023.07 </sub> </li>
