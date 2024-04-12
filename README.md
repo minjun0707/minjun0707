@@ -17,7 +17,7 @@
 
 🧑‍🤝‍🧑&nbsp;<b> Team Project </b>
 <br>
-<li><a href="https://github.com/KEA-DoKebi">PL | DKT Shopping Mall</a> <sub> 2023.01 ~ 2024.02 </sub></li>
+<li><a href="https://github.com/minjun0707/dalkom.shop">PL | DKT Shopping Mall</a> <sub> 2023.01 ~ 2024.02 </sub></li>
 <li><a href="https://github.com/KEA-Allways">PM | Allways Blog </a> <sub> 2023.09 ~ 2023.12 </sub></li>
 <li><a href="https://github.com/minjun0707/assignment-notification">We know what to do</a> <sub> 2022.03 ~ 2022.06 </sub></li>
 <br>
