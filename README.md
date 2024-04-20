@@ -1,6 +1,7 @@
 ### 안녕하세요 김민준입니다 👋 | [BLOG](https://imbusy.tistory.com/)
 
-- Gachon Kakao Enterprise SW Academy <sub> 2023.09 ~ 2024.02</sub>
+<!-- - Kakao Enterprise Intership <sub> 2024.04 ~ 2024.06</sub> -->
+- Kakao Enterprise Gachon SW Academy <sub> 2023.09 ~ 2024.02</sub>
 - Google Developer Student Clubs Gachon 23-24 <sub> 2023.09 ~</sub>
 - SuresoftTech Intership (Infra Verification Team) <sub> 2023.06 ~ 2023.08</sub>
 
@@ -17,7 +18,7 @@
 
 🧑‍🤝‍🧑&nbsp;<b> Team Project </b>
 <br>
-<li><a href="https://github.com/minjun0707/dalkom.shop">PL | DKT Shopping Mall</a> <sub> 2023.01 ~ 2024.02 </sub></li>
+<li><a href="https://github.com/minjun0707/dalkom.shop">PL | DKT Shopping Mall</a> <sub> 2023.12 ~ 2024.02 </sub></li>
 <li><a href="https://github.com/KEA-Allways">PM | Allways Blog </a> <sub> 2023.09 ~ 2023.12 </sub></li>
 <li><a href="https://github.com/minjun0707/assignment-notification">We know what to do</a> <sub> 2022.03 ~ 2022.06 </sub></li>
 <br>
