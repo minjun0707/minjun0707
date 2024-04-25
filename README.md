@@ -1,9 +1,9 @@
 ### 안녕하세요 김민준입니다 👋 | [BLOG](https://imbusy.tistory.com/)
 
-- Kakao Enterprise Intership (Cloud CV Development Dept)<sub> 2024.04 ~ </sub>
+- Kakao Enterprise Internship (Cloud CV Development Dept)<sub> 2024.04 ~ </sub>
 - Kakao Enterprise Gachon SW Academy <sub> 2023.09 ~ 2024.02</sub>
 - Google Developer Student Clubs Gachon 23-24 <sub> 2023.09 ~</sub>
-- SuresoftTech Intership (Infra Verification Team) <sub> 2023.06 ~ 2023.08</sub>
+- SuresoftTech Internship (Infra Verification Team) <sub> 2023.06 ~ 2023.08</sub>
 
 ---
 
