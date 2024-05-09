@@ -1,6 +1,7 @@
 ### 안녕하세요 김민준입니다 👋 | [BLOG](https://imbusy.tistory.com/)
 
 - Kakao Enterprise Internship (Cloud CV Development Dept)<sub> 2024.03 ~ </sub>
+  - <a href="https://pbd-kc-docs-1018.sandbox.kakaoi.io/tutorial/bigdata/data-catalog-crawler">카카오 클라우드 데이터 카탈로그를 활용한 MySQL 메타데이터 추출l</a>
 - Kakao Enterprise SW Academy Gachon <sub> 2023.09 ~ 2024.02</sub>
 - Google Developer Student Clubs Gachon 23-24 <sub> 2023.09 ~</sub>
 - SuresoftTech Internship (Infra Verification Team) <sub> 2023.06 ~ 2023.08</sub>
@@ -19,7 +20,7 @@
 🧑‍🤝‍🧑&nbsp;<b> Team Project </b>
 <br>
 <li><a href="https://github.com/minjun0707/dalkom.shop">PL | DKT Shopping Mall</a> <sub> 2023.12 ~ 2024.02 </sub></li>
-<li><a href="https://github.com/KEA-Allways">PM | Allways Blog </a> <sub> 2023.09 ~ 2023.12 </sub></li>
+<!-- <li><a href="https://github.com/KEA-Allways">PM | Allways Blog </a> <sub> 2023.09 ~ 2023.12 </sub></li> -->
 <li><a href="https://github.com/minjun0707/assignment-notification">We know what to do</a> <sub> 2022.03 ~ 2022.06 </sub></li>
 <br>
 
