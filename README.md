@@ -1,7 +1,7 @@
 ### 안녕하세요 김민준입니다 👋 | [BLOG](https://imbusy.tistory.com/)
 
 - Kakao Enterprise Internship (Cloud CV Development Dept)<sub> 2024.03 ~ </sub>
-  - <a href="https://pbd-kc-docs-1018.sandbox.kakaoi.io/tutorial/bigdata/data-catalog-crawler">카카오 클라우드 데이터 카탈로그를 활용한 MySQL 메타데이터 추출l</a>
+  - <a href="https://pbd-kc-docs-1018.sandbox.kakaoi.io/tutorial/bigdata/data-catalog-crawler">카카오 클라우드 Data Catalog 크롤러를 이용한 MySQL 메타데이터 추출</a>
 - Kakao Enterprise SW Academy Gachon <sub> 2023.09 ~ 2024.02</sub>
 - Google Developer Student Clubs Gachon 23-24 <sub> 2023.09 ~</sub>
 - SuresoftTech Internship (Infra Verification Team) <sub> 2023.06 ~ 2023.08</sub>
