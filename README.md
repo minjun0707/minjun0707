@@ -2,6 +2,7 @@
 
 - Kakao Enterprise Internship (Cloud CV Development Dept)<sub> 2024.04 ~ </sub>
   - <a href="https://docs.kakaocloud.com/tutorial/bigdata/data-catalog-crawler">카카오 클라우드 Data Catalog 크롤러를 이용한 MySQL 메타데이터 추출</a>
+  - <a href="https://docs.kakaocloud.com/tutorial/bigdata/data-catalog-crawler">Ansible을 활용한 카카오 클라우드 웹 서비스 인프라 자동화</a>   |   <a href="https://github.com/minjun0707/ansible-kc"> Code </a> 
 - Kakao Enterprise SW Academy Gachon <sub> 2023.09 ~ 2024.02</sub>
 - Google Developer Student Clubs Gachon 23-24 <sub> 2023.09 ~</sub>
 - SuresoftTech Internship (Infra Verification Team) <sub> 2023.06 ~ 2023.08</sub>
@@ -10,8 +11,8 @@
 
 ✏️&nbsp;<b> Experience </b>
 <li> Monitoring and Testing Implementation in a DevOps Environment (Elastic)  <sub> 2023.12.11~12.14 </sub> </li>
-<li> Multi Cloud Orchestartion (Terraform) <sub> 2023.11.13~16 </sub>  </li>
-<li> SK C&C UI/UX job training <sub> 2023.11.2~11.9 </sub> </li>
+<li> <a href="https://github.com/minjun0707/terraform-aws">  Multi Cloud Orchestartion (Terraform) <sub> 2023.11.13~16 </sub>  </li>
+<li> <a href="https://github.com/minjun0707/Linkhub-BE">  SK C&C UI/UX job training <sub> 2023.11.2~11.9 </sub> </a> </li>
 <li> AWS JAM <sub> 2023.11.2 </sub> </li>
 
 
