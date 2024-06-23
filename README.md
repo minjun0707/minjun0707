@@ -12,7 +12,7 @@
 ✏️&nbsp;<b> Experience </b>
 <li> Monitoring and Testing Implementation in a DevOps Environment (Elastic)  <sub> 2023.12.11~12.14 </sub> </li>
 <li> <a href="https://github.com/minjun0707/terraform-aws">  Multi Cloud Orchestartion (Terraform) <sub> 2023.11.13~16 </sub>  </li>
-<li> <a href="https://github.com/minjun0707/Linkhub-BE">  SK C&C UI/UX job training <sub> 2023.11.2~11.9 </sub> </a> </li>
+<li> <a href="https://github.com/minjun0707/sk-cnc-ui-ux">  SK C&C UI/UX job training <sub> 2023.11.2~11.9 </sub> </a> </li>
 <li> AWS JAM <sub> 2023.11.2 </sub> </li>
 
 
