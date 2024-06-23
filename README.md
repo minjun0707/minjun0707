@@ -2,7 +2,7 @@
 
 - Kakao Enterprise Internship (Cloud CV Development Dept)<sub> 2024.04 ~ </sub>
   - <a href="https://docs.kakaocloud.com/tutorial/bigdata/data-catalog-crawler">카카오 클라우드 Data Catalog 크롤러를 이용한 MySQL 메타데이터 추출</a>
-  - <a href="https://docs.kakaocloud.com/tutorial/bigdata/data-catalog-crawler">Ansible을 활용한 카카오 클라우드 웹 서비스 인프라 자동화</a>   |   <a href="https://github.com/minjun0707/ansible-kc"> Code </a> 
+  - <a href="https://zrr.kr/VMnr">Ansible을 활용한 카카오 클라우드 웹 서비스 인프라 자동화</a>   |   <a href="https://github.com/minjun0707/ansible-kc"> Code </a> 
 - Kakao Enterprise SW Academy Gachon <sub> 2023.09 ~ 2024.02</sub>
 - Google Developer Student Clubs Gachon 23-24 <sub> 2023.09 ~</sub>
 - SuresoftTech Internship (Infra Verification Team) <sub> 2023.06 ~ 2023.08</sub>
