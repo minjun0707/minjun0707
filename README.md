@@ -1,4 +1,4 @@
-### 안녕하세요 김민준입니다 👋 | [BLOG](https://imbusy.tistory.com/)
+### 안녕하세요 김민준입니다 👋 | [Portfolio](https://jade-sundae-334.notion.site/c77f91913e0b4f6b8a67885294e4bf24?pvs=74) | [BLOG](https://imbusy.tistory.com/)
 
 - Kakao Enterprise Internship (Cloud CV Development Dept)<sub> 2024.04 ~ </sub>
   - <a href="https://docs.kakaocloud.com/tutorial/bigdata/data-catalog-crawler">카카오 클라우드 Data Catalog 크롤러를 이용한 MySQL 메타데이터 추출</a>
